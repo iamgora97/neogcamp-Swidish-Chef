@@ -1,0 +1,56 @@
+nav{
+    background-color: #78350f;
+    text-align: center;
+    font-size: 2rem; 
+    font-weight: bold;
+    padding: 1rem
+}
+
+main{
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+textarea{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-height: 20vh;
+    margin-top: 2rem;
+    font-size: large;
+    text-align: center;
+}
+
+button {
+    background-color: #78350f;
+    border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: large;
+}
+
+#chef-output {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 20vh;
+    padding: 1rem; 
+    font-size: large;
+    border: 1px solid black;
+}
+
+footer{
+    background-color: #78350f;
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+    font-style:normal;
+}
